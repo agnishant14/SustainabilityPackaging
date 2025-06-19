@@ -1,4 +1,4 @@
-# Sustainovation - Soil Track # 🌱📦
+# Sustainovation - Soil Track 🌱📦
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
