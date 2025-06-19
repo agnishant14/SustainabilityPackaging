@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--05--10-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--06--19-blue)
 
 ## 🏗️ Architecture
 ```mermaid
