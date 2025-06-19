@@ -241,24 +241,6 @@ Find JSON report in temp_KB/reports/
 
 -Logs include stack traces and tool-call histories
 
-## 🤝 Contributing
--Fork & branch
-
--Add tests for new agents or states
-
--Submit PR with clear changelog
-
-## 📄 License
--MIT © Blue Yonder Packaging Challenge
-
-## 🙏 Acknowledgments
--LangGraph team for orchestration framework
-
-Google Cloud for Gemini APIs
-
-All open-source tool developers and community contributors
-
-
 
 This expanded README surfaces your system’s novel features—**parallel agent tool-calling**, **LangGraph state orchestration**, **LLM-driven JSON prompting**, and robust **error-handling with explanatory analysis**—all in a slide- and API-friendly format. Let me know if you’d like any section refined!
 
